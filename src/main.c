@@ -5,6 +5,9 @@
 
 int main(void)
 {
+    //Vitor Mateus
+    //Breno Ribeiro
+    //Kaua Fernandes
     if (start_system_controller() == 0)
     {
         printf("Erro ao abrir o banco de dados.\n");
