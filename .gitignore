@@ -1,22 +1,15 @@
-# Compiled files
+build/
 *.exe
 *.o
 *.obj
 
-# Build directory
-build/
-
-# Local databases
 *.db
 *.db-shm
 *.db-wal
 
-# Environment variables and secrets
 .env
-
-# Editor configuration
 .vscode/
-
-# Operating system files
 Thumbs.db
 .DS_Store
+
+libs/libbcrypt/.git/
