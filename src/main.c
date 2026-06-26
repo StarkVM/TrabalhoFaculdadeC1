@@ -8,6 +8,7 @@ int main(void)
     //Vitor Mateus
     //Breno Ribeiro
     //Kaua Fernandes
+    //Colar no terminal: git clone https://github.com/StarkVM/TrabalhoFaculdadeC1
     if (start_system_controller() == 0)
     {
         printf("Erro ao abrir o banco de dados.\n");
